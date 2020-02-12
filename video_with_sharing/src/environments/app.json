@@ -1,0 +1,5 @@
+{
+    "production": true,
+    "version": "1.0",
+    "websocketUrl": "wss://dahlmann.no:8510"
+}

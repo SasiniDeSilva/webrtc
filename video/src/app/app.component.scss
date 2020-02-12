@@ -1,0 +1,38 @@
+body { 
+    background: #eee; 
+    padding: 5% 0; 
+ } 
+
+ input{
+   margin-bottom: 30px;
+ }
+
+ button{
+   margin-left: 5px;
+ }
+ video{
+   margin-left:25px;
+ }
+
+ .card {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+  }
+
+  .container {
+    padding: 2px 16px;
+  }
+
+  #localVideo { 
+    width: 150px; 
+    height: 150px; 
+    position: absolute; 
+    top: 15px; 
+    right: 15px; 
+ }
+
+ #remoteVideo { 
+    width: 500px; 
+    height: 500px; 
+ }
